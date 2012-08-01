@@ -1431,9 +1431,9 @@ void AddSC_go_scripts()
     new go_large_gjalerbron_cage;
     new go_veil_skith_cage;
     new go_frostblade_shrine;
-	new go_icc_blood_orb;
-	new go_icc_putricide_table;
-	new go_ice_stone;
+    new go_icc_blood_orb;
+    new go_icc_putricide_table;
+    new go_ice_stone;
     new go_midsummer_bonfire;
-	new go_ball_and_chain;
+    new go_ball_and_chain;
 }
